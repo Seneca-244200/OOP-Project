@@ -1,0 +1,153 @@
+Testing PrintJob Class=============================
+PrintJob Tester!
+Course handout
+Club poster
+Course handout...................  10.00
+Club poster......................   8.00
+Enter the following:
+1<ENTER>
+2<ENTER>
+3<ENTER>
+4<ENTER>
+0<ENTER>
+=========>
+         Print Format Selection
+          1- A5
+          2- A4
+          3- A3
+          4- A2
+          0- Back
+         > 1
+Club poster.................A5...   4.00
+         Print Format Selection
+          1- A5
+          2- A4
+          3- A3
+          4- A2
+          0- Back
+         > 2
+Club poster.................A4...   6.00
+         Print Format Selection
+          1- A5
+          2- A4
+          3- A3
+          4- A2
+          0- Back
+         > 3
+Club poster.................A3...   8.00
+         Print Format Selection
+          1- A5
+          2- A4
+          3- A3
+          4- A2
+          0- Back
+         > 4
+Club poster.................A2...  12.00
+         Print Format Selection
+          1- A5
+          2- A4
+          3- A3
+          4- A2
+          0- Back
+         > 0
+Total = 30.00
+Enter the following:
+2<ENTER>
+=========>
+         Print Format Selection
+          1- A5
+          2- A4
+          3- A3
+          4- A2
+          0- Back
+         > 2
+Club poster.................A4...   6.00
+Total = 36.00
+
+Checking Virtuals: 
+Research diagram.................  12.00
+Price: 12.00
+Not Configured
+Enter the following:
+2<ENTER>
+<ENTER>(only for finishing)
+=========>
+         Print Format Selection
+          1- A5
+          2- A4
+          3- A3
+          4- A2
+          0- Back
+         > 2
+Configured
+Testing Finishing Class=============================
+Finishing Tester!
+Comb binding
+Spiral binding
+Comb binding.....................  20.00
+Spiral binding...................  24.00
+Enter the following:
+1<ENTER>
+bind on left
+2<ENTER>
+<ENTER>
+0<ENTER>
+=========>
+         Finishing Service Selection
+          1- Staff finished
+          2- Self service
+          0- Back
+         > 1
+Production notes
+> bind on left
+Spiral binding..............Staff  24.00 >> bind on left
+         Finishing Service Selection
+          1- Staff finished
+          2- Self service
+          0- Back
+         > 2
+Production notes
+> 
+Spiral binding..............Self.  12.00
+         Finishing Service Selection
+          1- Staff finished
+          2- Self service
+          0- Back
+         > 0
+Total = 36.00
+Enter the following:
+2<ENTER>
+<ENTER>
+=========>
+         Finishing Service Selection
+          1- Staff finished
+          2- Self service
+          0- Back
+         > 2
+Production notes
+> 
+Spiral binding..............Self.  12.00
+Total = 48.00
+
+Checking Virtuals: 
+Sheet folding....................  14.00
+Price: 14.00
+Not Configured
+Enter the following:
+2<ENTER>
+<ENTER>(only for finishing)
+=========>
+         Finishing Service Selection
+          1- Staff finished
+          2- Self service
+          0- Back
+         > 2
+Production notes
+> 
+Configured
+printout.csv: ==============>
+Research diagram.................  12.00
+<==============
+finishout.csv: ==============>
+Sheet folding....................  14.00
+<==============
