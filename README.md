@@ -38,7 +38,7 @@ All submission deadlines are at **11:59 p.m. America/Toronto**. The November and
 | MS4 | 10% | November 23 | Mandatory by December 6. Full milestone credit through November 30; zero milestone credit afterward. |
 | MS5 | 60% | November 30 | See details below. |
 
-Recommended development windows: MS1, October 25–November 1; MS2, November 2–6; MS3, November 7–16; MS4, November 17–23; MS5, November 24–30. December 1–6 is for late submissions and corrections.
+Recommended development windows: MS1, October 27–November 1; MS2, November 2–6; MS3, November 7–16; MS4, November 17–23; MS5, November 24–30. December 1–6 is for late submissions and corrections.
 
 > To allow partial submissions, **Milestone 5** has **six separately assessed parts**. Each is worth **10% of the project mark**. These are parts of MS5, not additional milestones.
 > **Your project will only be marked if you submit all four earlier milestones and at least one of the six MS5 parts by the absolute cutoff.**
