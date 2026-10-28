@@ -17,7 +17,7 @@ Each ticket has a unique number within the program run. When a ticket is complet
 
 A print catalog entry represents one prepared job, such as a course handout or club poster. A finishing entry represents a service, such as binding or folding. The catalog contains the base price. You do not need to track quantities, stock, production dates or documents.
 
-**All five milestones are available together on October 15, 2026.** October 15–24 is for preview and preparation. The recommended development start is **October 25, 2026**. The milestones are cumulative: keep using and improving the modules you have completed as you move forward.
+**All five milestones are available together on October 27, 2026.**  The milestones are cumulative: keep using and improving the modules you have completed as you move forward.
 
 > **Execution samples:** Your professor will capture and post the sample outputs after the design is finalized. Until then, linked expected-output files are clearly marked as awaiting capture; they are not submitter comparison files. Use the tester instructions and data-entry sequences below. Valgrind banners are not part of the required program output.
 
